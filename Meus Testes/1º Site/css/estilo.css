@@ -1,0 +1,220 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(146, 6, 6);
+}
+.logo{
+    width: 105px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.logopágina{
+    margin-left: 280px;
+}
+.logocontato{
+    margin-left: 200px;
+}
+div.header{
+    background: rgb(150, 5, 5);
+}
+a:link, a:active, a:visited{
+    color: rgb(11, 11, 59);
+    text-decoration: none;
+    font-weight: 700;
+}
+a:hover{
+    text-decoration: underline;
+}
+.linha{
+    width: 960px;
+    margin: 0 auto;
+    overflow: auto;
+    padding: 5px 0;
+}
+.coluna{
+    padding: 0 10px;
+    float: left;
+}
+.col1{
+	width: 60px;
+}
+.col2{
+	width: 140px;
+}
+.col3{
+	width: 220px;
+}
+.col4{
+	width: 300px;
+}
+.col5{
+	width: 380px;
+}
+.col6{
+	width: 460px;
+}
+.col7{
+	width: 540px;
+}
+.col8{
+	width: 620px;
+}
+.col9{
+	width: 700px;
+}
+.col10{
+	width: 780px;
+}
+.col11{
+	width: 860px;
+}
+.col12{
+	width: 940px;
+}
+.sem-padding{
+    padding: 0;
+}
+.sem-margin{
+    margin: 0;
+}
+.login.BOtao{
+    color: rgb(150, 5, 5);
+    border-radius: 3px;
+    border: none;
+    padding: 8px 8px;
+    margin: 5px 10;
+    background: #0B0B3B;
+    text-decoration: none;
+    margin-left: 90px;
+}
+.login.BOtao:hover{
+    text-decoration: none;
+    color: white;
+}
+ul.menu.inline.sem-marcador{
+    margin-top: 30px;
+    margin-left: -120px;
+    text-transform: uppercase;
+}
+ul li,ol li{
+    margin-bottom: 5px;
+}
+ul.inline li, ol.inline li{
+    display: inline;
+    margin-right: 25px;
+}
+ul.inline li:last-child, ol.inline li:last-child{
+    margin-right: 0;
+}
+a.botao{
+    border-radius: 3px;
+    border: none;
+    padding: 5px 5px;
+    margin: 5px 0;
+    background: gray;
+    text-decoration: none;
+}
+a.botao:hover{
+    background: #0B0B3B;
+    color: gray;
+}
+a.Botao{
+    border-radius: 3px;
+    border: none;
+    padding: 5px 5px;
+    margin: 5px 0;
+    background: gray;
+    text-decoration: none;
+}
+a.Botao:hover{
+    background: #0B0B3B;
+    color: gray;
+}
+.footer{
+    text-align: center;
+    background: rgb(150, 5, 5);
+    color: #0B0B3B;
+    font-weight: 700;
+    padding: 20px;
+}
+ul.noticias li{
+    list-style: none;
+}
+.empresa{
+    width: 450px;
+    cursor: pointer;
+}
+.conteudoextra{
+    background: rgb(190, 187, 187);
+}
+.hcd{
+    list-style: none;
+    color: #0B0B3B;
+}
+.HCD{
+    color: black ;
+}
+.HcD1{
+    width: 20px;
+    margin-left: -45px;
+}
+.HcD2{
+    width: 15px;
+    margin-left: -45px;
+}
+.sobre{
+    font-size: 30px;
+}
+.Sobre{
+    font-size: 20px;;
+}
+.dio{
+    width: 800px;
+    cursor: pointer;
+}
+.ultimotrabalho{
+    margin-left: px;
+}
+.linkdetexto:hover{
+        text-decoration: none;
+        color: rgb(150, 5, 5);
+        font-size: 20px;
+}
+.texto1{
+    font-size: 20px;
+    color: black;
+}
+.email{
+    margin-top: 10px;
+    margin-bottom: -5px;
+}
+.email2{
+    color: red;
+}
+.email2:hover{
+        text-decoration: none;
+        color: rgb(150, 5, 5);
+}
+.email3{
+    border-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    background: white;
+    margin-left: 300px;
+    width: 120px;
+}
+label.formulario, input.form{
+    display: block;
+    color: black;
+    font-size: 25px;
+    margin-left: 300px;
+}
+input.nome, input.senha{
+    border-radius: 6px;
+    border-color: black;
+}
+.voltar{
+    color: #0B0B3B;
+    background: rgb(190, 187, 187);
+    border-radius: 3px;
+    padding: 5px;
+    margin-left: 400px;
+}
